@@ -1,0 +1,13 @@
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\bin\Debug\netcoreapp3.1\lab_6.exe
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\bin\Debug\netcoreapp3.1\lab_6.deps.json
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\bin\Debug\netcoreapp3.1\lab_6.runtimeconfig.json
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\bin\Debug\netcoreapp3.1\lab_6.runtimeconfig.dev.json
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\bin\Debug\netcoreapp3.1\lab_6.dll
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\bin\Debug\netcoreapp3.1\lab_6.pdb
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\obj\Debug\netcoreapp3.1\lab_6.csprojAssemblyReference.cache
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\obj\Debug\netcoreapp3.1\lab_6.AssemblyInfoInputs.cache
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\obj\Debug\netcoreapp3.1\lab_6.AssemblyInfo.cs
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\obj\Debug\netcoreapp3.1\lab_6.csproj.CoreCompileInputs.cache
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\obj\Debug\netcoreapp3.1\lab_6.dll
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\obj\Debug\netcoreapp3.1\lab_6.pdb
+D:\Projects\Public\uni\c#\sem_5\lab_6\lab_6\obj\Debug\netcoreapp3.1\lab_6.genruntimeconfig.cache

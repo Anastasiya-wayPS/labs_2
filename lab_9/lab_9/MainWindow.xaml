@@ -1,0 +1,38 @@
+﻿<Window x:Class="lab_9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab_9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="384.439">
+				<Grid>
+								<Grid.RowDefinitions>
+												<RowDefinition Height="298*"/>
+												<RowDefinition Height="121*"/>
+								</Grid.RowDefinitions>
+								<Label x:Name="label" Content="N" HorizontalAlignment="Left" Margin="42,38,0,0" VerticalAlignment="Top"/>
+								<TextBox x:Name="nInput" HorizontalAlignment="Left" Height="23" Margin="72,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+								<Label x:Name="label_Copy" Content="K" HorizontalAlignment="Left" Margin="42,66,0,0" VerticalAlignment="Top"/>
+								<TextBox x:Name="kInput" HorizontalAlignment="Left" Height="23" Margin="72,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+								<Label x:Name="label_Copy1" Content="x" HorizontalAlignment="Left" Margin="42,94,0,0" VerticalAlignment="Top"/>
+								<TextBox x:Name="xInput" HorizontalAlignment="Left" Height="23" Margin="72,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+								<Label x:Name="label_Copy2" Content="f" HorizontalAlignment="Left" Margin="42,122,0,0" VerticalAlignment="Top"/>
+								<TextBox x:Name="fInput" HorizontalAlignment="Left" Height="23" Margin="72,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+								<Label x:Name="label_Copy3" Content="y" HorizontalAlignment="Left" Margin="42,150,0,0" VerticalAlignment="Top"/>
+								<GroupBox x:Name="groupBox" Header="Результат" HorizontalAlignment="Left" Height="151" Margin="31,201,0,0" VerticalAlignment="Top" Width="325" Grid.RowSpan="2">
+												<Grid Margin="0,0,-2,-4">
+																<Label x:Name="label8" Content="0" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+																<Label x:Name="label16" Content="0" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.938,0.519"/>
+																<Label x:Name="label10" Content="0" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+																<Label x:Name="label16_Copy" Content="- система счисления с основанием 16" HorizontalAlignment="Left" Margin="44,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.938,0.519"/>
+																<Label x:Name="label16_Copy1" Content="- система счисления с основанием 10" HorizontalAlignment="Left" Margin="44,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.938,0.519"/>
+																<Label x:Name="label16_Copy2" Content="- система счисления с основанием 8" HorizontalAlignment="Left" Margin="44,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.938,0.519" Width="261"/>
+												</Grid>
+
+								</GroupBox>
+								<TextBox x:Name="yInput" HorizontalAlignment="Left" Height="23" Margin="72,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+								<Button x:Name="button" Content="Считать" HorizontalAlignment="Left" Margin="42,76,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+
+				</Grid>
+</Window>

@@ -1,0 +1,5 @@
+D:\Projects\Public\uni\c#\sem_5\lab_8\lab_8\obj\Debug\lab_8.csprojAssemblyReference.cache
+D:\Projects\Public\uni\c#\sem_5\lab_8\lab_8\obj\Debug\MainWindow.g.cs
+D:\Projects\Public\uni\c#\sem_5\lab_8\lab_8\obj\Debug\App.g.cs
+D:\Projects\Public\uni\c#\sem_5\lab_8\lab_8\obj\Debug\lab_8_MarkupCompile.cache
+D:\Projects\Public\uni\c#\sem_5\lab_8\lab_8\obj\Debug\lab_8_MarkupCompile.lref
